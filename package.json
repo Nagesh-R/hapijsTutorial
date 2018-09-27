@@ -1,0 +1,22 @@
+{
+  "name": "hapijstutorial",
+  "version": "1.0.0",
+  "description": "Hapi Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagesh-R/hapijsTutorial.git"
+  },
+  "author": "Nagesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nagesh-R/hapijsTutorial/issues"
+  },
+  "homepage": "https://github.com/Nagesh-R/hapijsTutorial#readme",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  }
+}
